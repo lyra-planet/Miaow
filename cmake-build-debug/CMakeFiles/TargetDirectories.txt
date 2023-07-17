@@ -1,0 +1,3 @@
+/Users/lyra/CLionProjects/Miaow/cmake-build-debug/CMakeFiles/gameEngine.dir
+/Users/lyra/CLionProjects/Miaow/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lyra/CLionProjects/Miaow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
